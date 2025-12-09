@@ -1,0 +1,8 @@
+
+{
+  "name": "GrowMate",
+  "description": "An AI-powered personal plant care assistant that provides personalized care recommendations, weather-based alerts, and smart reminders to help you nurture your plants.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
